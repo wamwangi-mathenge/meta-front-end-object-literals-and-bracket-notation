@@ -20,6 +20,8 @@ console.log(house2);
 When using bracket notation, wrap each property's key as a string, inside either the single or double quotes - just like with regular strings.
 Then wrap the entire property key into an opening and a closing square bracket.
 
+You can both access and update properties on objects using either the dot notation ,or the brackets notation, or a combination of both, like in the following example.
+
 ~~~
 var car = {};
 car.color = "red";
